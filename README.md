@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="400"/>
+<img align="center" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="500"/>
 <h1 align="center">Hi 👋, I'm Pradeep Gangad</h1>
 <h3 align="center">Automation Tester from India</h3>
 
